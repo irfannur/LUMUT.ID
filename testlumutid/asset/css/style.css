@@ -1,0 +1,10 @@
+
+.list-group-item.active {
+    z-index: 2;
+    color: #fff;
+    background-color: #383d41;
+    border-color: #383d41;
+}
+.card-header{
+	color: #fff;
+}
