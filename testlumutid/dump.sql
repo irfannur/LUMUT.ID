@@ -62,7 +62,7 @@ CREATE TABLE IF NOT EXISTS `post` (
 --
 
 INSERT INTO `post` (`idpost`, `title`, `content`, `date`, `username`) VALUES
-(1, 'Judulya', '1213144', '2018-07-20', 'irfan'),
+(1, 'Judulya', '1213144', '2018-07-20', 'admin'),
 (4, 'dad', 'rreyru', '2018-07-20', 'admin');
 
 --
