@@ -7,7 +7,7 @@
 		<input autocomplete="off" required autofocus type="text" id="title" name="title" placeholder="title" value="<?=$query['title'];?>" class="form-control">
 	</div>
 	<div class="form-group">
-		<label for="password">Content</label>
+		<label for="content">Content</label>
 		<textarea autocomplete="off" required autofocus id="content" name="content" class="form-control"><?=(set_value('content')) ? set_value('content') : $query['content']?></textarea>
 	</div>
 	
